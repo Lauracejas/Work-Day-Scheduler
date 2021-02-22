@@ -8,8 +8,8 @@ SO THAT I can manage my time effectively
 
 * [Description](#Description)
 * [Instalation](#Instalation)
+* [Resources](#Resources)
 * [Screenshot](#Screenshot) 
-* [Credits](#Credits)
 
 ## Description
 
